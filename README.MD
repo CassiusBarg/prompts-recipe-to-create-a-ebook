@@ -1,9 +1,4 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
-
-
-<p align="center">
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
 <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
@@ -20,35 +15,17 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7212097329103855616/" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-
-## 🧠 Prompts
-
-
-ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
-
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
 
 ## ✨ Features
 
@@ -60,10 +37,6 @@ Midjourney：
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
 ## 👨‍💻 Expert
 
 <p>
@@ -71,22 +44,15 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://scontent.fjoi2-1.fna.fbcdn.net/v/t39.30808-6/448827709_7910319372351356_6219225715887475891_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEWRxvmvwCyz1TKGNQXu2Zuw2OK3O6pwUfDY4rc7qnBRzN9Dawh8RQU_fDClQK0ZGF2jbRVqXyhdl-YMI_onrCu&_nc_ohc=fUTuCCEefacQ7kNvgGzBtTx&_nc_ht=scontent.fjoi2-1.fna&oh=00_AYCEzHIoTl8fuu1D4bGKW0CLr3d6n2tE3pmEpF1m1CHcqQ&oe=667A142E"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspCassius Vinicius Barg<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/CassiusBarg/">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/cassiusbarg/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/cassiusbarg/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
