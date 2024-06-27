@@ -1,4 +1,10 @@
-<img src="https://cdn.midjourney.com/e9d8de74-6f15-41ad-82b1-b21fbb15caf7/0_1.png" alt="DIO - course"></a>
+<p>
+    <img 
+      align=center 
+      margin=10 
+      width=300 
+      src="https://cdn.midjourney.com/e9d8de74-6f15-41ad-82b1-b21fbb15caf7/0_1.png"
+    />
 
 -------
 
