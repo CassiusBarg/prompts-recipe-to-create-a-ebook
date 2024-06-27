@@ -1,9 +1,6 @@
-<p align="center">
-<img 
-    src="https://cdn.midjourney.com/e9d8de74-6f15-41ad-82b1-b21fbb15caf7/0_1.png"
-    width="400"  
-/>
-</p>
+
+![Café com biscoito](https://i.postimg.cc/sBR44PVN/image.png)
+
 
 # Projeto EBOOK Gerado por I.A.s
 
