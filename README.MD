@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.postimg.cc/sBR44PVN/image.png" alt="Café com biscoito" style="width:500px;height:auto;">
+  <img src="https://i.postimg.cc/sBR44PVN/image.png" alt="Café com biscoito" style="width:300px;height:auto;">
 </p>
 
 # Projeto EBOOK Gerado por I.A.s
